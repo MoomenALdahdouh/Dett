@@ -15,5 +15,12 @@
       <jdbc-url>jdbc:mysql://216.10.242.149:3306/shiks9gc_api</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="shiks9gc_api@localhost" uuid="c6672ebb-2b6c-4798-b710-20b4f60fc751">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/shiks9gc_api</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
